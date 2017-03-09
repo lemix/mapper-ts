@@ -1,0 +1,20 @@
+{
+  "name": "mapper-ts",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.ts",
+  "types": "index.d.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lemix/mapper-ts.git"
+  },
+  "author": "lemix",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lemix/mapper-ts/issues"
+  },
+  "homepage": "https://github.com/lemix/mapper-ts#readme"
+}
