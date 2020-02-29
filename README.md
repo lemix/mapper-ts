@@ -1,6 +1,8 @@
-# Mapping properties from source object to destination type
+# Mapper-ts
 
-# Usage example
+Mapper-ts is a small library written in TypeScript built to rid of code that mapped one object to another. Mapping properties from source object to destination type.
+
+## Usage example
 
 1. Create example types:
 
